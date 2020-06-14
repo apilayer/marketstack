@@ -10,19 +10,19 @@ Feel like trying it out? You can get a free API access key using the button belo
 
 ## API Endpoints
 
-* **End-of-Day Data**:
-* **Intraday Data**:
-* **Historical Data**:
-* **Tickers**:
-* **Exchanges**:
-* **Currencies**:
-* **Timezones**:
+* **End-of-Day Data**
+* **Intraday Data**
+* **Historical Data**
+* **Tickers**
+* **Exchanges**
+* **Currencies**
+* **Timezones**
 
 ## Supported Stock Market Data
 
-* **125.000+ Stock Tickers**:
-* **72+ Stock Exchanges**:
-* **50+ Countries**:
+* **125.000+ Stock Tickers**
+* **72+ Stock Exchanges**
+* **50+ Countries**
 
 [Sign up for our cheapest Premium Plan](https://marketstack.com/signup/basic) to get access to intraday data, 10 years of historical stock data, HTTPS encryption, commercial use, and more.
 
